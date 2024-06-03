@@ -1,2 +1,7 @@
 # systemdesign
-System design problems implementation
+
+Реализация задач системного проектирования
+
+Задачи
+
+- [Ограничитель трафика](src/SystemDesign.RateLimiting/README.md)

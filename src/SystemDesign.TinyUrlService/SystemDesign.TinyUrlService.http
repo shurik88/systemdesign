@@ -1,0 +1,6 @@
+@SystemDesign.TinyUrlService_HostAddress = http://localhost:5100
+
+GET {{SystemDesign.TinyUrlService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
